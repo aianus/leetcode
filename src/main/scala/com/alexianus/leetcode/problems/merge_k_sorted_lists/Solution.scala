@@ -1,11 +1,8 @@
 package com.alexianus.leetcode.problems.merge_k_sorted_lists
 
-import scala.collection.mutable.ListBuffer
+import com.alexianus.leetcode.problems.ListNode
 
-class ListNode(var _x: Int = 0) {
-  var next: ListNode = null
-  var x: Int = _x
-}
+import scala.collection.mutable.ListBuffer
 
 object Solution {
 
