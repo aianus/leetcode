@@ -5,7 +5,6 @@ import scala.collection.mutable.ArrayBuffer
 import scala.math.{pow, min}
 
 object Solution {
-  val memo = new mutable.HashMap[Int, Int]
   lazy val ints: Stream[Int] = 1 #:: ints.map(_ + 1)
   lazy val perfectSquares: Stream[Int] = ints.map{ i => pow(i, 2).toInt }
 
