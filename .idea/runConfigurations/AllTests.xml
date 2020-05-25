@@ -29,6 +29,8 @@
         <option value="com.alexianus.leetcode.problems.letter_tile_possibilities.SolutionSpec" />
         <option value="com.alexianus.leetcode.problems.perfect_squares.SolutionSpec" />
         <option value="com.alexianus.leetcode.problems.perfect_squares.SolutionSpec" />
+        <option value="com.alexianus.leetcode.problems.palindrome_partitioning.SolutionSpec" />
+        <option value="com.alexianus.leetcode.problems.palindrome_partitioning.SolutionSpec" />
         <option value="com.alexianus.leetcode.problems.product_of_array_except_self.SolutionSpec" />
         <option value="com.alexianus.leetcode.problems.product_of_array_except_self.SolutionSpec" />
         <option value="com.alexianus.leetcode.problems.group_anagrams.SolutionSpec" />
@@ -54,7 +56,7 @@
     <option name="showProgressMessages" value="true" />
     <option name="testArgs" value="" />
     <option name="testClassPath" value="" />
-    <option name="testPackagePath" value="" />
+    <option name="testPackagePath" value="com.alexianus.leetcode.problems" />
     <option name="useSbt" value="false" />
     <option name="useUiWithSbt" value="false" />
     <option name="workingDirectory" value="$PROJECT_DIR$" />
