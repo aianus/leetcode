@@ -78,3 +78,4 @@ fabric.properties
 # VSCode stuff for cpp solutions
 .vscode/
 
+.bsp/
