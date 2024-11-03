@@ -6,6 +6,7 @@
         <entry key="xml" value="XML" />
       </map>
     </option>
+    <option name="migrateConfigurationsNotificationShown" value="true" />
     <option name="scFileMode" value="Ammonite" />
   </component>
 </project>
